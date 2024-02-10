@@ -7,4 +7,4 @@ function areaCirculo(r){
 }
 console.log(areaCirculo(4));
 NomeInicial("h1", "calculadora de area");
-NomeInicial("p", "determine o raio")
+NomeInicial("p", "determine o raio");
